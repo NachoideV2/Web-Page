@@ -79,7 +79,7 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-size: 20px;
+	font-size: 35px;
 	color: rgba(255,255,255,0.7);
 	font-weight: 500;
 	text-transform: uppercase;
@@ -93,7 +93,7 @@ hr {
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
 	color: rgba(255,255,255,0.7);
-	font-size: 12px;
+	font-size: 20px;
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
