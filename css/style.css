@@ -220,6 +220,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 	background: linear-gradient(to bottom, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#414a52', GradientType=0 ); /* IE6-9 */
 }
+#instagram h1 {
+	color: #547fdd;
+}
 /* twitter */
 #twitter {
 	padding: 120px 0;
@@ -229,6 +232,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 	background: -webkit-linear-gradient(top, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to bottom, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 0%, rgba(17, 17, 17, 1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#54d0dd', GradientType=0 ); /* IE6-9 */
+}
+#twitter h1 {
+	color: #547fdd;
 }
 /* Portfolio Section */
 #portfolio {
